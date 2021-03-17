@@ -10,15 +10,13 @@ As well you will see how to receive data from MainActivity, using get.
 
 *** Note: Please, remember use these pluggins in the file build.gradle:
 
-`
-
+```
 plugins {
     id 'com.android.application'
     id 'kotlin-android'
     id 'kotlin-android-extensions'
 }
-
-`
+```
 
 ---
 
